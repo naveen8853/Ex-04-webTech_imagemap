@@ -145,12 +145,12 @@ juniorcabs.html
 
 
 # Output:
-![img](output1)
-![img](output2)
-![img](output3)
-![img](output4)
-![img](output5)
-![img](output6)
+![img](output1.png)
+![img](output2.png)
+![img](output3.png)
+![img](output4.png)
+![img](output5.png)
+![img](output6.png)
 
 # Result:
 Image-Mapping is done successfully
